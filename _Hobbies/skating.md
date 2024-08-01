@@ -1,5 +1,5 @@
 ---
-title: "Portfolio item number 1"
+title: "Skating"
 excerpt: "Double board skiing<br/><img src='/images/skating.png'>"
-collection: portfolio
+collection: Hobbies
 ---
