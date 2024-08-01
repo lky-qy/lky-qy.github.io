@@ -12,7 +12,7 @@ title                    : "Your Nameasd / Site Title"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
-url                      :  https://lky-qy.github.io
+url                      : https://lky-qy.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "lky-qy/lky-qy.github.io"
 
