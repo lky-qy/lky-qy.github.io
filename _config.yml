@@ -7,10 +7,10 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-US"
-title                    : "Your Name / Site Title"
+locale                   : "China,Beijing"
+title                    : "Kangyu Liang / Personal Website"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Kangyu Liang"
 description              : &description "personal description"
 url                      : https://lky-qy.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -23,12 +23,10 @@ author:
   # Biographic information
   avatar           : "my_profile.png"
   name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  bio              : "Enjoy nature, enjoy life!"
+  location         : "Beijing, China"
+  googlescholar    : "https://scholar.google.com/citations?user=NeyCaIcAAAAJ&hl=zh-CN"
+  email            : "22120854@bjtu.edu.cn"
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
