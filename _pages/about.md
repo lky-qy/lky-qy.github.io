@@ -9,7 +9,7 @@ redirect_from:
 
 
 # 😊 About Me 
-Greetings! Welcome to my homepage! 👋 I’m **Kangyu Liang (梁康玉)**. I am very fortunate to be advised by [Prof. Yongsheng Zhang](https://trans.bjtu.edu.cn/faculty/9580.html) and [Prof. Enjian Yao](https://trans.bjtu.edu.cn/faculty/8318.html) of Transport Industry of Big Data Application Technologies for Comprehensive Transport lab, Beijing Jiaotong University. 
+Greetings! Welcome to my homepage! 👋 I’m **Kangyu Liang (梁康玉)**. I am very fortunate to be advised by **Prof. Yongsheng Zhang** of Transport Industry of Big Data Application Technologies for Comprehensive Transport lab, Beijing Jiaotong University. 
 My research interests include **travel behavior analysis**, **urban AI** and **machine learning**. I am enthusiastic about adopting multi-source data and artificial intelligence to measure and evaluate the urban accessibility. 
 🚀🚀**Seeking a Ph.D. Position for 2025 Fall**🚀🚀
 
