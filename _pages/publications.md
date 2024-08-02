@@ -7,7 +7,8 @@ author_profile: true
 
 {% if site.author.googlescholar %}
 {% endif %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
+  <div class="wordwrap">You can also find my articles on <a href="https://www.researchgate.net/profile/Liang-Knagyu">my ResearchGate profile</a>.</div>
+
 
 {% include base_path %}
 
