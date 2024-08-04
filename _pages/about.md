@@ -26,7 +26,7 @@ Want to learn more about me? Click here: [CV](../assets/Curriculum_Vitae.pdf)
 # 🎖 Honors and Awards
 - Outstanding Student Paper Award at the International Symposium on Intelligent Construction and Smart Engineering of Transportation Infrastructure, 2023
 - First Class Scholarship (top 3%), 2021
-- First Prize in Jiangxi Province Mathematical Modeling Contest, 2020.
+- First Prize in Mathematical Modeling Contest, 2020.
 
 # 📖 Educations
 - M.S., Transportation Planning and Management, Beijing Jiaotong University, 2025 (expected) 
