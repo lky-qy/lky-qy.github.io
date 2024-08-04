@@ -24,8 +24,7 @@ Want to learn more about me? Click here: [CV](../assets/Curriculum_Vitae.pdf)
 [1] __Kangyu Liang__, Yongsheng Zhang, Zhouhang Li. Analysis on Railway Station Choice Behaviour Affected by Urban Transport Accessibility in a City with Multiple Stations. ITS World Congress. 2023
 
 # 🎖 Honors and Awards
-- Outstanding Student Paper Award at the International Symposium on Intelligent Construction and Smart   
-  Engineering of Transportation Infrastructure, 2023
+- Outstanding Student Paper Award at the International Symposium on Intelligent Construction and Smart Engineering of Transportation Infrastructure, 2023
 - First Class Scholarship (top 3%), 2021
 - First Prize in Jiangxi Province Mathematical Modeling Contest, 2020.
 
