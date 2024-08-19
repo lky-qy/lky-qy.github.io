@@ -10,15 +10,16 @@ redirect_from:
 
 # 😊 About Me 
 Greetings! Welcome to my homepage! 👋 I’m **Kangyu Liang (梁康玉)**. I am very fortunate to be advised by **Prof. Yongsheng Zhang** of Transport Industry of Big Data Application Technologies for Comprehensive Transport lab, Beijing Jiaotong University. 
-My research interests include **travel behavior analysis**, **urban AI** and **machine learning**. My goal is to build a more resilient, efficient, and convenient transportation system. 
+In daily life, I am an outgoing person who enjoys making friends. I love participating in outdoor activities like climbing, hiking, and swimming. I also relish taking on new challenges.
+My research interests include **transportation data science**, **urban AI** and **machine learning**. My goal is to build a more resilient, efficient, and convenient transportation system. 
 🚀🚀**Seeking a Ph.D. Position for 2025 Fall**🚀🚀
 
 Want to learn more about me? Click here: [CV](../assets/Curriculum_Vitae.pdf)
 
 # 📝 Journal Publications 
-[1] **Kangyu Liang**, Yongsheng Zhang, Enjian Yao, “[A Method for Predicting Real-Time Carriage-Level Alighting Flow Based on Train Weighing Data by Incorporating Correlations Among Carriages](https://ieeexplore.ieee.org/abstract/document/10529978),” in IEEE Sensors Journal, vol. 24, no. 13, pp. 21604-21613, 1 July1, 2024. (SCI, IF=4.3, JCR Q1) 
+[1] **Kangyu Liang**, Yongsheng Zhang, Enjian Yao, “[A Method for Predicting Real-Time Carriage-Level Alighting Flow Based on Train Weighing Data by Incorporating Correlations Among Carriages](https://ieeexplore.ieee.org/abstract/document/10529978),” in IEEE Sensors Journal, vol. 24, no. 13, pp. 21604-21613, 1 July1, 2024. 
 
-[2] Yongsheng Zhang, __Kangyu Liang__, Enjian Yao, Mingyi Gu, “[Measuring Reliable Accessibility to High-Speed Railway Stations by Integrating the Utility-Based Model and Multimodal Space–Time Prism under Travel Time Uncertainty](https://doi.org/10.3390/ijgi13080263),” in ISPRS International Journal of Geo-information. 13(263), 2024, pp.1-14. (SCI, IF=2.8, JCR Q2) 
+[2] Yongsheng Zhang, __Kangyu Liang__, Enjian Yao, Mingyi Gu, “[Measuring Reliable Accessibility to High-Speed Railway Stations by Integrating the Utility-Based Model and Multimodal Space–Time Prism under Travel Time Uncertainty](https://doi.org/10.3390/ijgi13080263),” in ISPRS International Journal of Geo-information. 13(263), 2024, pp.1-14. 
 
 # 📝 Conference paper
 [1] __Kangyu Liang__, Yongsheng Zhang, Zhouhang Li. Analysis on Railway Station Choice Behaviour Affected by Urban Transport Accessibility in a City with Multiple Stations. ITS World Congress. 2023
